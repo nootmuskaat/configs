@@ -1,3 +1,5 @@
+# Destination: $HOME/.gitconfig
+
 [alias]
 	b = branch -vv
 	bb = branch -vv --all

@@ -1,4 +1,4 @@
-# $HOME/.bash_profile
+# Destination: $HOME/.bashrc
 set -o vi
 export EDITOR=$(command -v nvim &>/dev/null && echo "nvim" || echo "vim")
 

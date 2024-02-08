@@ -47,5 +47,8 @@ return require("packer").startup(
         })
 
         use("ThePrimeagen/harpoon")
+
+        use("mhinz/vim-startify")
+
     end
 )
